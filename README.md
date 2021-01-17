@@ -1,8 +1,6 @@
 ## Building with Responsive Design
 
-</h1>This project is a clone of The News week website ( www.newsweek.com ).It's responsive to tablet view (breakpoint at 990px)
-
-The webpage is built using html/css and bootstrap 4 classes and positioning technologies ( FLEX GRID FLOAT ).</h1>
+</h1>This project is a clone of The Newsweek website  ( www.newsweek.com). It's responsive to tablet view (breakpoint at 990px). The webpage is built using HTML/CSS and Bootstrap (flex/grid/float).</h1>
 
 ![screenshot](./images/main.png)
 
